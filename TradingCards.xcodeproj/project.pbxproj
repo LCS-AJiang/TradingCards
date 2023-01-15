@@ -8,19 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		CDF42FF52971EA0900A6DD46 /* TradingCardsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF42FF42971EA0900A6DD46 /* TradingCardsApp.swift */; };
-		CDF42FF72971EA0900A6DD46 /* First person.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF42FF62971EA0900A6DD46 /* First person.swift */; };
+		CDF42FF72971EA0900A6DD46 /* First.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF42FF62971EA0900A6DD46 /* First.swift */; };
 		CDF42FF92971EA0C00A6DD46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDF42FF82971EA0C00A6DD46 /* Assets.xcassets */; };
 		CDF42FFC2971EA0C00A6DD46 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDF42FFB2971EA0C00A6DD46 /* Preview Assets.xcassets */; };
-		CDF430032973977500A6DD46 /* Second person.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF430022973977500A6DD46 /* Second person.swift */; };
+		CDF430032973977500A6DD46 /* Second.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF430022973977500A6DD46 /* Second.swift */; };
+		CDF430052973DE1C00A6DD46 /* Third.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF430042973DE1C00A6DD46 /* Third.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CDF42FF12971EA0900A6DD46 /* TradingCards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TradingCards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDF42FF42971EA0900A6DD46 /* TradingCardsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradingCardsApp.swift; sourceTree = "<group>"; };
-		CDF42FF62971EA0900A6DD46 /* First person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "First person.swift"; sourceTree = "<group>"; };
+		CDF42FF62971EA0900A6DD46 /* First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = First.swift; sourceTree = "<group>"; };
 		CDF42FF82971EA0C00A6DD46 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDF42FFB2971EA0C00A6DD46 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		CDF430022973977500A6DD46 /* Second person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Second person.swift"; sourceTree = "<group>"; };
+		CDF430022973977500A6DD46 /* Second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Second.swift; sourceTree = "<group>"; };
+		CDF430042973DE1C00A6DD46 /* Third.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Third.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,8 +56,9 @@
 			isa = PBXGroup;
 			children = (
 				CDF42FF42971EA0900A6DD46 /* TradingCardsApp.swift */,
-				CDF42FF62971EA0900A6DD46 /* First person.swift */,
-				CDF430022973977500A6DD46 /* Second person.swift */,
+				CDF42FF62971EA0900A6DD46 /* First.swift */,
+				CDF430022973977500A6DD46 /* Second.swift */,
+				CDF430042973DE1C00A6DD46 /* Third.swift */,
 				CDF42FF82971EA0C00A6DD46 /* Assets.xcassets */,
 				CDF42FFA2971EA0C00A6DD46 /* Preview Content */,
 			);
@@ -140,9 +143,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDF42FF72971EA0900A6DD46 /* First person.swift in Sources */,
+				CDF42FF72971EA0900A6DD46 /* First.swift in Sources */,
+				CDF430052973DE1C00A6DD46 /* Third.swift in Sources */,
 				CDF42FF52971EA0900A6DD46 /* TradingCardsApp.swift in Sources */,
-				CDF430032973977500A6DD46 /* Second person.swift in Sources */,
+				CDF430032973977500A6DD46 /* Second.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
