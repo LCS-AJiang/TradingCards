@@ -12,6 +12,10 @@ struct TradingCardsApp: App {
     var body: some Scene {
         WindowGroup {
             First()
+            Second()
+            Third()
+            Fourth()
+            Fifth()
         }
     }
 }
