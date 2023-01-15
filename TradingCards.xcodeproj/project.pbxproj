@@ -13,6 +13,8 @@
 		CDF42FFC2971EA0C00A6DD46 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDF42FFB2971EA0C00A6DD46 /* Preview Assets.xcassets */; };
 		CDF430032973977500A6DD46 /* Second.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF430022973977500A6DD46 /* Second.swift */; };
 		CDF430052973DE1C00A6DD46 /* Third.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF430042973DE1C00A6DD46 /* Third.swift */; };
+		CDF430072973DFAB00A6DD46 /* Fourth.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF430062973DFAB00A6DD46 /* Fourth.swift */; };
+		CDF430092973E08A00A6DD46 /* Fifth.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF430082973E08A00A6DD46 /* Fifth.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		CDF42FFB2971EA0C00A6DD46 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CDF430022973977500A6DD46 /* Second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Second.swift; sourceTree = "<group>"; };
 		CDF430042973DE1C00A6DD46 /* Third.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Third.swift; sourceTree = "<group>"; };
+		CDF430062973DFAB00A6DD46 /* Fourth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fourth.swift; sourceTree = "<group>"; };
+		CDF430082973E08A00A6DD46 /* Fifth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fifth.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				CDF42FF62971EA0900A6DD46 /* First.swift */,
 				CDF430022973977500A6DD46 /* Second.swift */,
 				CDF430042973DE1C00A6DD46 /* Third.swift */,
+				CDF430062973DFAB00A6DD46 /* Fourth.swift */,
+				CDF430082973E08A00A6DD46 /* Fifth.swift */,
 				CDF42FF82971EA0C00A6DD46 /* Assets.xcassets */,
 				CDF42FFA2971EA0C00A6DD46 /* Preview Content */,
 			);
@@ -144,7 +150,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDF42FF72971EA0900A6DD46 /* First.swift in Sources */,
+				CDF430092973E08A00A6DD46 /* Fifth.swift in Sources */,
 				CDF430052973DE1C00A6DD46 /* Third.swift in Sources */,
+				CDF430072973DFAB00A6DD46 /* Fourth.swift in Sources */,
 				CDF42FF52971EA0900A6DD46 /* TradingCardsApp.swift in Sources */,
 				CDF430032973977500A6DD46 /* Second.swift in Sources */,
 			);
